@@ -30,6 +30,17 @@ DataBase <br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](#) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)](#)
 
 Tool <br>
-[![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)](#) [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](#) 
+[![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)](#) [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](#)
+  
+
+# Project
+  
+### electronic_approval (전자결재시스템)
+
+
+### [Instagram](https://github.com/LimYoungGyun/MarondalGram_210520)
+<img src="https://user-images.githubusercontent.com/77229667/141686965-0f33803a-3a7b-439b-a3ce-54828083135d.PNG"  width="700" height="670">
+
+
 </div>
   
