@@ -38,9 +38,11 @@ Tool <br>
 ### electronic_approval (전자결재시스템)
 
 
-### [Instagram](https://github.com/LimYoungGyun/MarondalGram_210520)
+### [Instagram][MarondalGram]
 <img src="https://user-images.githubusercontent.com/77229667/141686965-0f33803a-3a7b-439b-a3ce-54828083135d.PNG"  width="700" height="670">
 
 
 </div>
+
+[MarondalGram]: <https://github.com/LimYoungGyun/MarondalGram_210520>
   
